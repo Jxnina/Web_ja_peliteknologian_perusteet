@@ -78,16 +78,16 @@ http://localhost:8000
 ## Käyttöohje
 Selaus ja suodattimet
 
-25 tuotetta per sivu
-Käytä yläreunan suodattimia (tyyppi, maa, pullokoko, hinta, energia)
-Pullokokoryhmät: Pienet, Keskikokoiset, Suuret, Viinit 0.75 l jne.
-Sivutus alhaalla
+- 25 tuotetta per sivu
+- Käytä yläreunan suodattimia (tyyppi, maa, pullokoko, hinta, energia)
+- Pullokokoryhmät: Pienet, Keskikokoiset, Suuret, Viinit 0.75 l jne.
+- Sivutus alhaalla
 
 ## Hinnaston päivitys
 
-Klikkaa pääsivulla painiketta "Päivitä hinnasto Alkon sivuilta"
-Seuraa reaaliaikaista edistymispalkkia
-Valmis → palaa automaattisesti tuoreeseen dataan
+1. Klikkaa pääsivulla painiketta "Päivitä hinnasto Alkon sivuilta"
+2. Seuraa reaaliaikaista edistymispalkkia
+3. Valmis → palaa automaattisesti tuoreeseen dataan
 
 Tekijä
 Jxnina
