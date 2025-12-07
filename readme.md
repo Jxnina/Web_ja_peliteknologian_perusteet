@@ -92,5 +92,7 @@ Selaus ja suodattimet
 Tekijä
 
 Janina Pelli
- Web- ja peliteknologian perusteet -kurssi
- Joulukuu 2025
+
+Web- ja peliteknologian perusteet -kurssi
+
+Joulukuu 2025
