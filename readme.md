@@ -1,7 +1,7 @@
 # Alkon hinnasto – Web-palvelu  
 
-**Web- ja peliteknologian perusteet -kurssin lopputyö (arvosana 5)**  
-Moderni, responsiivinen ja automaattisesti päivittyvä web-sovellus Alkon koko tuotetietokannan selaamiseen.
+**Web- ja peliteknologian perusteet -kurssin lopputyö (arvosana 5 kriteerein)**  
+Web-sovellus Alkon ajantasaisen tuotetietokannan selaamiseen.
 
 Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 
