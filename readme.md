@@ -34,13 +34,13 @@ Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 
 ```plaintext
 Web_ja_peliteknologian_perusteet/
-├── ./data/
+├── data/
 │   ├── alkon-hinnasto.xlsx              # Alkon viralliselta sivulta ladattu Excel
 │   ├── alkon-hinnasto-ascii.csv         # Puhdas tuotedata ilman otsikoita
 │   └── alkon-hinnasto-combined.csv      # Header + data (sovelluksen käyttämä tiedosto)
 ├── vendor/                              # Composer-riippuvuudet
 │   └── shuchkin/simplexlsx/
-├── config.php                           # Kaikki asetukset (polut, sarakkeet, sivukoko)
+├── (./config.php/)                          # Kaikki asetukset (polut, sarakkeet, sivukoko)
 ├── model.php                            # Tietojen luku, suodatus, Excel→CSV-käsittely
 ├── controller.php                       # HTTP-pyyntöjen ja suodattimien käsittely
 ├── view.php                             # HTML-komponentit ja taulukon generointi
