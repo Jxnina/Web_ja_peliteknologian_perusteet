@@ -2,6 +2,7 @@
 
 **Web- ja peliteknologian perusteet -kurssin lopputyö (arvosana 5)**  
 Moderni, responsiivinen ja automaattisesti päivittyvä web-sovellus Alkon koko tuotetietokannan selaamiseen.
+
 Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 
 ![Kuvakaappaus](https://img.shields.io/badge/Arvosana-5-brightgreen) ![PHP](https://img.shields.io/badge/PHP-8.4%2B-blue) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple)
