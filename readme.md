@@ -90,6 +90,7 @@ Selaus ja suodattimet
 3. Valmis → palaa automaattisesti tuoreeseen dataan
 
 Tekijä
+
 Jxnina
 Web- ja peliteknologian perusteet -kurssi
 Joulukuu 2025
