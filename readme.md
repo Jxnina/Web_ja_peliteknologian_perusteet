@@ -53,15 +53,8 @@ Web_ja_peliteknologian_perusteet/
 └── README.md
 ```
 
-## Kansiorakenne (klikattavat tiedostot)
+## SOURCE-Koodit (Klikkaa tiedostoa nähdäksesi koodin)
 
-- **Web_ja_peliteknologian_perusteet/**
-  - **data/**
-    - alkon-hinnasto.xlsx
-    - alkon-hinnasto-ascii.csv
-    - alkon-hinnasto-combined.csv
-  - **vendor/**
-    - shuchkin/simplexlsx/
   - [config.php](./config.php) – asetukset (polut, sarakkeet, sivukoko)
   - [model.php](./model.php) – tietojen luku, suodatus, Excel→CSV-käsittely
   - [controller.php](./controller.php) – HTTP-pyyntöjen ja suodattimien käsittely
@@ -70,9 +63,6 @@ Web_ja_peliteknologian_perusteet/
   - [update.php](./update.php) – automaattipäivitys + edistymispalkki
   - [styles.css](./styles.css)
   - [composer.json] (./composer.json)  
-  - composer.lock  
-  - PROJEKTI_DOKUMENTAATIO.txt  
-  - README.md  
 
 ---
 
@@ -109,7 +99,7 @@ Selaus ja suodattimet
 
 1. Klikkaa pääsivulla painiketta "Päivitä hinnasto Alkon sivuilta"
 2. Seuraa reaaliaikaista edistymispalkkia
-3. Valmis → palaa automaattisesti tuoreeseen dataan
+3. Valmis → paina "Siirry hinnastoon" painiketta
 
 ## Tekijä
 
