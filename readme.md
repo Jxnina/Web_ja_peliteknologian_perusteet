@@ -49,7 +49,7 @@ Web_ja_peliteknologian_perusteet/
 ├── composer.lock
 ├── PROJEKTI_DOKUMENTAATIO.txt
 └── README.md
-
+```
 
 ---
 
@@ -71,7 +71,6 @@ php -S localhost:8000
 
 # 5. Avaa selaimessa
 http://localhost:8000
-
 
 
 ## Käyttöohje
