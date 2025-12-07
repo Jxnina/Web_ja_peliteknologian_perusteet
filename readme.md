@@ -62,7 +62,7 @@ Web_ja_peliteknologian_perusteet/
   - [index.php](./index.php) – sivu tuotteiden selaamiseen
   - [update.php](./update.php) – automaattipäivitys + edistymispalkki
   - [styles.css](./styles.css)
-  - [composer.json] (./composer.json)  
+  - [composer.json](./composer.json)  
 
 ---
 
