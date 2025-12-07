@@ -49,7 +49,7 @@ Web_ja_peliteknologian_perusteet/
 ├── composer.lock
 ├── PROJEKTI_DOKUMENTAATIO.txt
 └── README.md
-
+```plaintext
 
 ## Käynnistys ja asennus
 
