@@ -7,16 +7,12 @@ Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 
 ![Kuvakaappaus](https://img.shields.io/badge/Arvosana-5-brightgreen) ![PHP](https://img.shields.io/badge/PHP-8.4%2B-blue) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-purple)
 
-## Esikatselu (näyttökuvat)
-*(Lisää myöhemmin kansioon `/screenshots/` ja korvaa linkit)*
-- Pääsivu: responsiivinen taulukko + suodattimet ![pääsivu](main1.png) ![pääsivu](main2.png)
-- Päivityssivu: reaaliaikainen edistymispalkki ![päivityssivu](update.png)
-
   ## Esikatselu (näyttökuvat)
-*(Lisää myöhemmin kansioon `/screenshots/` ja korvaa linkit)*
 
 - **Pääsivu:** responsiivinen taulukko + suodattimet  
   <img src="main1.png" width="33%"> <img src="main2.png" width="33%">
+
+  
 
 - **Päivityssivu:** reaaliaikainen edistymispalkki  
   <img src="update.png" width="33%">
