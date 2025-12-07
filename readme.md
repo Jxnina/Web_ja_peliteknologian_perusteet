@@ -91,6 +91,6 @@ Selaus ja suodattimet
 
 Tekijä
 
-Jxnina
-Web- ja peliteknologian perusteet -kurssi
-Joulukuu 2025
+Janina Pelli
+ Web- ja peliteknologian perusteet -kurssi
+ Joulukuu 2025
