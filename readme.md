@@ -28,22 +28,27 @@ Moderni, responsiivinen ja automaattisesti päivittyvä web-sovellus Alkon koko 
 - **SimpleXLSX** (Composer: `shuchkin/simplexlsx`)
 - **CSV** tietovarastona (nopeampi kuin tietokanta pienessä projektissa)
 
-## Kansiorakenne
-alko/
+## -Kansiorakenne
+
+```plaintext
+Web_ja_peliteknologian_perusteet/
 ├── data/
-│   ├── alkon-hinnasto.xlsx              # Ladattu raaka-Excel Alkon sivuilta
-│   ├── alkon-hinnasto-ascii.csv         # Puhdas tuotedata
-│   └── alkon-hinnasto-combined.csv      # Header + data (sovelluksen käyttämä)
+│   ├── alkon-hinnasto.xlsx              # Alkon viralliselta sivulta ladattu Excel
+│   ├── alkon-hinnasto-ascii.csv         # Puhdas tuotedata ilman otsikoita
+│   └── alkon-hinnasto-combined.csv      # Header + data (sovelluksen käyttämä tiedosto)
 ├── vendor/                              # Composer-riippuvuudet
-├── config.php                           # Kaikki asetukset yhdessä paikassa
-├── model.php                            # Tietojen luku, suodatus, Excel-käsittely
-├── controller.php                       # Pyyntöjen käsittely ja parametrit
-├── view.php                             # HTML-generointi ja UI-komponentit
-├── index.php                            # Pääsivu – tuotteiden selaus
-├── update.php                           # Automaattinen päivityssivu edistymispalkilla
-├── styles.css                           # Ulkoasu
-├── composer.json & composer.lock
-└── PROJEKTI_DOKUMENTAATIO.txt           # Projektin dokumentaatio
+│   └── shuchkin/simplexlsx/
+├── config.php                           # Kaikki asetukset (polut, sarakkeet, sivukoko)
+├── model.php                            # Tietojen luku, suodatus, Excel→CSV-käsittely
+├── controller.php                       # HTTP-pyyntöjen ja suodattimien käsittely
+├── view.php                             # HTML-komponentit ja taulukon generointi
+├── index.php                            # Pääsivu – tuotteiden selaus ja suodattimet
+├── update.php                           # Automaattipäivitys + reaaliaikainen edistymispalkki
+├── styles.css                           # Alkon brändivärit ja responsiivinen ulkoasu
+├── composer.json
+├── composer.lock
+├── PROJEKTI_DOKUMENTAATIO.txt
+└── README.md
 
 
 ## Käynnistys ja asennus
@@ -65,7 +70,7 @@ php -S localhost:8000
 # 5. Avaa selaimessa
 http://localhost:8000
 
-Käyttöohje
+## Käyttöohje
 Selaus ja suodattimet
 
 25 tuotetta per sivu
@@ -73,7 +78,7 @@ Käytä yläreunan suodattimia (tyyppi, maa, pullokoko, hinta, energia)
 Pullokokoryhmät: Pienet, Keskikokoiset, Suuret, Viinit 0.75 l jne.
 Sivutus alhaalla
 
-Hinnaston päivitys
+## Hinnaston päivitys
 
 Klikkaa pääsivulla painiketta "Päivitä hinnasto Alkon sivuilta"
 Seuraa reaaliaikaista edistymispalkkia
