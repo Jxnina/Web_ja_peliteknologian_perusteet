@@ -72,7 +72,7 @@ php -S localhost:8000
 # 5. Avaa selaimessa
 http://localhost:8000
 
-´´´
+```
 ---
 
 ## Käyttöohje
