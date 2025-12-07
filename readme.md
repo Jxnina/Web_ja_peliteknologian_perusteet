@@ -34,7 +34,7 @@ Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 
 ```plaintext
 Web_ja_peliteknologian_perusteet/
-├── data/
+├── ./data/
 │   ├── alkon-hinnasto.xlsx              # Alkon viralliselta sivulta ladattu Excel
 │   ├── alkon-hinnasto-ascii.csv         # Puhdas tuotedata ilman otsikoita
 │   └── alkon-hinnasto-combined.csv      # Header + data (sovelluksen käyttämä tiedosto)
