@@ -40,7 +40,7 @@ Web_ja_peliteknologian_perusteet/
 │   └── alkon-hinnasto-combined.csv      # Header + data (sovelluksen käyttämä tiedosto)
 ├── vendor/                              # Composer-riippuvuudet
 │   └── shuchkin/simplexlsx/
-├── (./config.php/)                          # Kaikki asetukset (polut, sarakkeet, sivukoko)
+├── config.php                           # Kaikki asetukset (polut, sarakkeet, sivukoko)
 ├── model.php                            # Tietojen luku, suodatus, Excel→CSV-käsittely
 ├── controller.php                       # HTTP-pyyntöjen ja suodattimien käsittely
 ├── view.php                             # HTML-komponentit ja taulukon generointi
@@ -52,6 +52,27 @@ Web_ja_peliteknologian_perusteet/
 ├── PROJEKTI_DOKUMENTAATIO.txt
 └── README.md
 ```
+
+## Kansiorakenne (klikattavat tiedostot)
+
+- **Web_ja_peliteknologian_perusteet/**
+  - **data/**
+    - alkon-hinnasto.xlsx
+    - alkon-hinnasto-ascii.csv
+    - alkon-hinnasto-combined.csv
+  - **vendor/**
+    - shuchkin/simplexlsx/
+  - [config.php](./config.php) – asetukset (polut, sarakkeet, sivukoko)
+  - [model.php](./model.php) – tietojen luku, suodatus, Excel→CSV-käsittely
+  - [controller.php](./controller.php) – HTTP-pyyntöjen ja suodattimien käsittely
+  - [view.php](./view.php) – HTML-komponentit ja taulukon generointi
+  - [index.php](./index.php) – sivu tuotteiden selaamiseen
+  - [update.php](./update.php) – automaattipäivitys + edistymispalkki
+  - [styles.css](./styles.css)
+  - composer.json  
+  - composer.lock  
+  - PROJEKTI_DOKUMENTAATIO.txt  
+  - README.md  
 
 ---
 
