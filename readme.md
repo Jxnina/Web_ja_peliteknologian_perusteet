@@ -9,9 +9,8 @@ Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 
 ## Esikatselu (näyttökuvat)
 *(Lisää myöhemmin kansioon `/screenshots/` ja korvaa linkit)*
-- Pääsivu: responsiivinen taulukko + suodattimet ![pääsivu](Näyttökuva%202025-12-07%20kello%2019.50.41.png)
- ![pääsivu](Näyttökuva 2025-12-07 kello 19.50.54.png)
-- Päivityssivu: reaaliaikainen edistymispalkki ![päivityssivu](Näyttökuva 2025-12-07 kello 19.51.22.png)
+- Pääsivu: responsiivinen taulukko + suodattimet ![pääsivu](main1.png) ![pääsivu](main2.png)
+- Päivityssivu: reaaliaikainen edistymispalkki ![päivityssivu](update.png)
 
 ## Toteutetut ominaisuudet (kaikki arvosanan 5 kriteerit)
 
