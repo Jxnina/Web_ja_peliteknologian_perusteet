@@ -28,7 +28,7 @@ Linkki projektiin niiskulla: https://niisku.lab.fi/~pelja/alko/index.php
 - **PHP 8.4+**
 - **Bootstrap 5.3.3** + Bootstrap Icons
 - **SimpleXLSX** (Composer: `shuchkin/simplexlsx`)
-- **CSV** tietovarastona (nopeampi kuin tietokanta pienessä projektissa)
+- **CSV**
 
 ## Kansiorakenne
 
