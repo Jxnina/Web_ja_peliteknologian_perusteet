@@ -89,10 +89,9 @@ Selaus ja suodattimet
 2. Seuraa reaaliaikaista edistymispalkkia
 3. Valmis → palaa automaattisesti tuoreeseen dataan
 
-Tekijä
+## Tekijä
 
 Janina Pelli
 
-Web- ja peliteknologian perusteet -kurssi
-
+Web- ja peliteknologian perusteet -kurssi,
 Joulukuu 2025
