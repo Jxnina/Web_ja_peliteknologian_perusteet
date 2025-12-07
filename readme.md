@@ -80,7 +80,6 @@ Selaus ja suodattimet
 
 - 25 tuotetta per sivu
 - Käytä yläreunan suodattimia (tyyppi, maa, pullokoko, hinta, energia)
-- Pullokokoryhmät: Pienet, Keskikokoiset, Suuret, Viinit 0.75 l jne.
 - Sivutus alhaalla
 
 ## Hinnaston päivitys
