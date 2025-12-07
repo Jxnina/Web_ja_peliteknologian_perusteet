@@ -50,7 +50,7 @@ Web_ja_peliteknologian_perusteet/
 ├── PROJEKTI_DOKUMENTAATIO.txt
 └── README.md
 
-plaintext```
+---
 
 ## Käynnistys ja asennus
 
