@@ -28,7 +28,7 @@ Moderni, responsiivinen ja automaattisesti päivittyvä web-sovellus Alkon koko 
 - **SimpleXLSX** (Composer: `shuchkin/simplexlsx`)
 - **CSV** tietovarastona (nopeampi kuin tietokanta pienessä projektissa)
 
-## -Kansiorakenne
+## Kansiorakenne
 
 ```plaintext
 Web_ja_peliteknologian_perusteet/
@@ -69,6 +69,8 @@ php -S localhost:8000
 
 # 5. Avaa selaimessa
 http://localhost:8000
+
+
 
 ## Käyttöohje
 Selaus ja suodattimet
