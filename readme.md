@@ -52,7 +52,7 @@ Web_ja_peliteknologian_perusteet/
 ├── view.php                             # HTML-komponentit ja taulukon generointi
 ├── index.php                            # Pääsivu – tuotteiden selaus ja suodattimet
 ├── update.php                           # Automaattipäivitys + reaaliaikainen edistymispalkki
-├── styles.css                           # Alkon brändivärit ja responsiivinen ulkoasu
+├── styles.css                           # Ulkoasu
 ├── composer.json
 ├── composer.lock
 ├── PROJEKTI_DOKUMENTAATIO.txt
